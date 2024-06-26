@@ -29,7 +29,7 @@ Solution:
 class Solution {
 public:
     void solve(TreeNode* root, int &sum) {
-        if(!root) { //root == NULL
+        if(!root) { 
             return;
         }
 
